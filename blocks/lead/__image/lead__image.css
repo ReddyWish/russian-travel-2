@@ -1,0 +1,33 @@
+.lead__image {
+    margin: 0 auto;
+    background-image: url("../../../sprint-3-images/kalegin-michail-179870-unsplash (1)-min.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 984px;
+    height: 615px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .lead__image {
+        max-width: 928px;
+        height: 580px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+        /*max-width: 100%;*/
+        max-width: 768px;
+        height: 480px;
+        /*height: 480px;*/
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__image {
+        max-width: 320px;
+        height: 200px;
+    }
+}
