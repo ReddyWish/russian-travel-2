@@ -1,11 +1,16 @@
-.lang-link {
+.header__lang-link {
+    margin: 0;
     font-family: 'Inter', serif;
+    display: flex;
+    gap: 18px;
+    align-items: end;
     font-weight: 400;
     color: rgba(255, 255, 255, 1);
     font-size: 24px;
     line-height: 28px;
     text-decoration: none;
     padding-left: 18px;
+    list-style: none;
 }
 
 @media screen and (max-width: 320px) {

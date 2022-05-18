@@ -1,0 +1,11 @@
+.header__ru-link {
+  max-width: 30px;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 320px) {
+  .header__ru-link {
+   max-width: 22px;
+
+  }
+}

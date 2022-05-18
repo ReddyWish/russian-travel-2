@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9daf03b8-4a1a-41f7-8391-984313e9dd7a" name="Changes" comment="" />
+    <list default="true" id="9daf03b8-4a1a-41f7-8391-984313e9dd7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__navigation/footer__navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__en-link/header__en-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__ru-link/header__ru-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/_active/header__ru-link_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/span-accent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/place/__paragraphs/place__paragraphs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprint-3-images/__image (1)-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/Page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/Page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/group-4/group-4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/lang-link_En.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/lang-link_Ru.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/_logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/_logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/website/__link/website__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__website/__link/place__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/website/__url-heading/website__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__website/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/website/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__website/place__website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint-3-images/Group 4.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,16 +83,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hello shuts/dev/how-to-lern2",
+    "last_opened_file_path": "C:/Users/hello shuts/dev/russian-travel-2",
+    "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\sprint-3-images" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks\header" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2" />
       <recent name="C:\Users\hello shuts\dev\russian-travel\sprint-3-images" />
       <recent name="C:\Users\hello shuts\dev\russian-travel\blocks\header" />
-      <recent name="C:\Users\hello shuts\dev\russian-travel\blocks\header\_lang-links" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +114,8 @@
       <workItem from="1652472079512" duration="27435000" />
       <workItem from="1652695161284" duration="6092000" />
       <workItem from="1652702249897" duration="5640000" />
+      <workItem from="1652802129094" duration="10000" />
+      <workItem from="1652805453000" duration="30122000" />
     </task>
     <servers />
   </component>

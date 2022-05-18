@@ -1,42 +1,26 @@
 .lead {
     max-width: 76.9%;
     min-height: auto;
-    /*padding-right: 11.5%;*/
-    /*padding-left: 11.5%;*/
-    /*height: auto;*/
-    /*min-height: 63vh;*/
-    /*padding-left: 148px;*/
-    /*padding-right: 148px;*/
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    /*flex-wrap: wrap;*/
-    /*align-items: start;*/
-    /*justify-content: stretch;*/
-    /*padding: 56px 148px 0 148px;*/
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
         max-width: 91%;
-        /*min-height: 962px;*/
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead {
         max-width: 100%;
-        /*padding-left: 4.7%;*/
-        /*padding-right: 4.7%;*/
-        /*min-height: 862px;*/
 
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead {
-        /*max-width: 100%;*/
-        /*min-height: 406px;*/
-
+        max-width: 100%;
     }
 }

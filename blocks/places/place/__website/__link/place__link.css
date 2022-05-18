@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
     font-family: 'Inter',sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -8,12 +8,12 @@
     color: #FFFFFF;
 }
 
-.website__link:hover {
+.place__link:hover {
     cursor: url("../../../../../sprint-3-images/Imported Layers Copy 41.png"), pointer;
 }
 
 @media screen and (max-width: 320px) {
-    .website__link {
+    .place__link {
         padding-top: 12px;
 
     }

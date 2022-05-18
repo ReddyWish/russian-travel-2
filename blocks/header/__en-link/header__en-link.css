@@ -1,0 +1,11 @@
+.header__en-link {
+    max-width: 29px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 320px) {
+    .header__en-link {
+       max-width: 22px;
+
+    }
+}

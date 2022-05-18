@@ -1,4 +1,9 @@
 .header__logo {
+    background-image: url("../../../sprint-3-images/header-logo-min.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*padding-bottom: 29.5%;*/
 }
 
 @media screen and (max-width: 320px) {
