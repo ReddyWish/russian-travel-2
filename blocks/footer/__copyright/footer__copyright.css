@@ -1,7 +1,8 @@
 .footer__copyright {
     font-family: 'Inter', sans-serif;
     margin: 0;
-    padding-left: 533px;
+    width: 186px;
+    /*padding-left: 533px;*/
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -27,8 +28,8 @@
 
 @media screen and (max-width: 320px) {
     .footer__copyright {
-
-      padding: 16px 0 0 0;
+      text-align: left;
+      padding: 0 0 0 0;
 
     }
 }

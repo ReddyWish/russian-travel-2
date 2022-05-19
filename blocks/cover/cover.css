@@ -5,7 +5,11 @@
     /*padding-bottom: 88px;*/
     /*display: flex;*/
     margin: 0;
-    padding-left: 48px;
+    /*padding-left: 48px;*/
+    /*padding-right: 48px;*/
+    /*padding-top: 12px;*/
+    max-width: calc(100% - 48px*2);
+    padding: 12px 48px 0 48px;
 
 
     /*flex-direction: column;*/
@@ -26,7 +30,7 @@
 @media screen and (max-width: 1024px) {
     .cover {
         max-width: 100%;
-        padding: 12px 0px 88px 0px;
+        padding: 12px 0px 0px 0px;
         height: auto;
     }
 }
@@ -34,7 +38,7 @@
 @media screen and (max-width: 768px) {
     .cover {
         max-width: 100%;
-        padding: 17px 0px 88px 0px;
+        padding: 90px 0px 88px 0px;
         height: auto;
     }
 }
@@ -42,7 +46,8 @@
 @media screen and (max-width: 320px) {
     .cover {
         max-width: 100%;
-        padding: 16px 0px 0px 0px;
+        padding: 66px 0px 0px 0px;
         height: auto;
+
     }
 }

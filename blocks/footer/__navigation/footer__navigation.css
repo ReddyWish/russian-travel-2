@@ -1,3 +1,5 @@
-.footer__navigation {
-
+@media screen and (max-width: 320px) {
+    .footer__navigation {
+        gap: 32px
+    }
 }
