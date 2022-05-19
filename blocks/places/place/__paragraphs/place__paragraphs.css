@@ -18,8 +18,12 @@
 
 @media screen and (max-width: 768px) {
     .place__paragraphs {
+        text-align: left;
+        max-width: 352px;
         font-size: 16px;
         gap: 25px;
+        padding-top: 48px;
+
     }
 }
 
@@ -27,10 +31,9 @@
     .place__paragraphs {
         max-width: calc(100% - 16px*2);
         margin: 0 auto;
-        /*padding-left: 16px;*/
-        /*padding-right: 16px;*/
         display: flex;
         flex-direction: column;
         gap: 25px;
+        padding-top: 0;
     }
 }
