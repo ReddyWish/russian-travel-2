@@ -10,6 +10,8 @@
 
 .footer__link:hover {
     cursor: url("../../../sprint-3-images/Imported Layers Copy 41.png"), pointer;
+    opacity: .3;
+    transition: .8s;
 }
 
 @media screen and (max-width: 320px) {

@@ -4,6 +4,8 @@
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
+        align-self: start;
+        padding-bottom: 26px;
 
     }
 }
@@ -13,6 +15,9 @@
     .place__paragraph {
         max-width: 100%;
         text-align: left;
+        padding-bottom: 0;
+        align-self: end;
     }
+
 }
 

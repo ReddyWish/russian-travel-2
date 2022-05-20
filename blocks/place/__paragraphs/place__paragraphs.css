@@ -3,17 +3,13 @@
     grid-area: paragraph;
     object-fit: cover;
     max-width: 100%;
-    min-height: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    gap: 26px;
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
     color: #FFFFFF;
+    align-self: start;
 }
 
 @media screen and (max-width: 768px) {
@@ -22,19 +18,20 @@
         max-width: 352px;
         font-size: 16px;
         gap: 25px;
-        padding-top: 48px;
+        align-items: start;
 
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__paragraphs {
-        max-width: calc(100% - 16px*2);
-        margin: 0 auto;
         display: flex;
         flex-direction: column;
         gap: 25px;
-        padding-top: 0;
-        align-items: stretch;
+        max-width: calc(100% - 16px*2);
+        margin: 0 auto;
+        align-self: end;
+
     }
+
 }

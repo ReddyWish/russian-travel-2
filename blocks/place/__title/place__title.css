@@ -18,7 +18,7 @@
         font-size: 42px;
         line-height: 110%;
         max-width: 100%;
-        align-self: start;
+        align-self: center;
     }
 }
 
@@ -31,6 +31,7 @@
         line-height: 109%;
         align-self: start;
         padding-left: 16px;
+        /*padding-bottom: 32px;*/
 
     }
 }

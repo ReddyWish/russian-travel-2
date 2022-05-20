@@ -6,6 +6,11 @@
     /*padding-bottom: 29.5%;*/
 }
 
+.header__logo:hover {
+    opacity: .3;
+    transition: .8s;
+}
+
 @media screen and (max-width: 320px) {
     .header__logo {
         max-width: 142px;

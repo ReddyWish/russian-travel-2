@@ -13,9 +13,6 @@
 
 @media screen and (max-width: 1024px) {
     .lead__subtitle {
-        /*padding-right: 192px;*/
-        /*padding-left: 192px;*/
-        /*max-width: 68.7%;*/
         max-width: calc(100vw - 192px*2);
         padding-bottom: 56px;
     }
@@ -23,8 +20,6 @@
 
 @media screen and (max-width: 768px) {
     .lead__subtitle {
-        /*padding-right: 64px;*/
-        /*padding-left: 64px;*/
         max-width: calc(100% - 64px*2);
     }
 }

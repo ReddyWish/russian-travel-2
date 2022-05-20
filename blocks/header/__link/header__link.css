@@ -1,0 +1,10 @@
+.header__link {
+
+}
+
+@media screen and (max-width: 320px) {
+    .header__link {
+        max-width: 22px;
+
+    }
+}

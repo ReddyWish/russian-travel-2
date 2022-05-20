@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daf03b8-4a1a-41f7-8391-984313e9dd7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraphs/place__paragraphs.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__paragraphs/place__paragraphs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__en-link/header__en-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__ru-link/header__ru-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/_active/header__ru-link_active.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/_active/header__link_active.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/_logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/_logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__span-accent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraphs/place__paragraphs.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__website/__link/place__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/__website/__link/place__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__website/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/__website/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__website/place__website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/__website/place__website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +78,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\vendor\fonts" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\font" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\vendor" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks" />
       <recent name="C:\Users\hello shuts\dev\russian-travel-2\fonts" />
-      <recent name="C:\Users\hello shuts\dev\russian-travel-2\sprint-3-images" />
-      <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks\header" />
-      <recent name="C:\Users\hello shuts\dev\russian-travel-2" />
-      <recent name="C:\Users\hello shuts\dev\russian-travel\sprint-3-images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +102,7 @@
       <workItem from="1652695161284" duration="6092000" />
       <workItem from="1652702249897" duration="5640000" />
       <workItem from="1652802129094" duration="10000" />
-      <workItem from="1652805453000" duration="64942000" />
+      <workItem from="1652805453000" duration="88123000" />
     </task>
     <servers />
   </component>

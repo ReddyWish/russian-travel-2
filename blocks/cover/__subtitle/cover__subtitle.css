@@ -2,29 +2,20 @@
     font-family: 'Inter', sans-serif;
     font-style: normal;
     margin: 0 auto;
-    /*padding: 32px 412px 245px 412px;*/
-    /*padding-top: 32px;*/
     max-width: 30.4%;
-    /*max-width: 100%;*/
     font-weight: 400;
     font-size: 18px;
     line-height: 122%;
     text-align: center;
     color: #FFFFFF;
     padding-top: 32px;
-    /*position: absolute;*/
-    /*top: 429px;*/
-    /*left: 412px;*/
-
 }
+
 
 
 @media screen and (max-width: 1024px) {
     .cover__subtitle {
         max-width: 35%;
-        /*max-width: 100%;*/
-        /*min-height: auto;*/
-        /*padding: 32px 332px 195px 332px;*/
         top: 379px;
         left: 332px;
     }
@@ -32,12 +23,9 @@
 
 
 
-
 @media screen and (max-width: 768px) {
     .cover__subtitle {
         max-width: 47%;
-        /*max-width: 100%;*/
-        /*padding: 32px 204px 115px 204px;*/
         top: 299px;
         left: 204px;
     }
@@ -49,7 +37,7 @@
         padding: 16px 16px 33px 16px;
         /*top: 119px;*/
         /*left: 16px*/
-        max-width: 100%;
+        max-width: calc(100% - 16px*2);
         font-size: 14px;
         line-height: 16px;
         text-align: center;
