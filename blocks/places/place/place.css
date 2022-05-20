@@ -63,8 +63,11 @@
         flex-direction: column;
         justify-content: start;
         gap: 32px;
-        align-items: end;
+        align-items: stretch;
         padding-bottom: 0;
 
+    }
+    .place:nth-child(1) > .place__title {
+        max-width: 100%;
     }
 }
