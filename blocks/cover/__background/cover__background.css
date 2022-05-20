@@ -13,10 +13,6 @@
     text-decoration: none;
 }
 
-.cover__background {
-    text-decoration: none;
-}
-
 .cover__background > a:hover {
     cursor: url("../../../sprint-3-images/Imported Layers Copy 41.png"), pointer;
 }
