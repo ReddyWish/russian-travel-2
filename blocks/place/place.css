@@ -19,7 +19,7 @@
     .place {
         max-width: 100%;
         grid-template-columns: 440px 1fr;
-        grid-template-rows: 1fr min-content;
+        grid-template-rows: auto 440px;
         column-gap: 32px;
         align-items: start;
 
@@ -29,13 +29,10 @@
 @media screen and (max-width: 768px) {
     .place {
         max-width: 100%;
-        /*box-sizing: border-box;*/
         grid-template-columns: 340px 352px;
-        /*grid-template-rows: 10% 10% 80%;*/
         grid-template-rows: 46px 1fr;
         grid-template-areas:
         "title website"
-        /*"title website"*/
         "image paragraph";
         row-gap: 50px;
         column-gap: 28px;

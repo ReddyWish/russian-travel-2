@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daf03b8-4a1a-41f7-8391-984313e9dd7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__span-accent/intro__span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__span-accent/intro__span-accent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__website/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +52,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks\intro\__span-accent" />
       <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks\place" />
+      <recent name="C:\Users\hello shuts\dev\russian-travel-2\blocks\intro\__span-accent" />
       <recent name="C:\Users\hello shuts\dev\russian-travel-2\vendor\fonts" />
       <recent name="C:\Users\hello shuts\dev\russian-travel-2\font" />
       <recent name="C:\Users\hello shuts\dev\russian-travel-2\vendor" />
@@ -71,7 +76,7 @@
       <workItem from="1652695161284" duration="6092000" />
       <workItem from="1652702249897" duration="5640000" />
       <workItem from="1652802129094" duration="10000" />
-      <workItem from="1652805453000" duration="91241000" />
+      <workItem from="1652805453000" duration="92826000" />
     </task>
     <servers />
   </component>
